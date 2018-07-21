@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config-ducky",
+  "version": "0.0.1",
+  "description": "A config for eslint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamLeBlanc/eslint-config-ducky.git"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "config",
+    "eslint",
+    "node"
+  ],
+  "author": "Adam LeBlanc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AdamLeBlanc/eslint-config-ducky/issues"
+  },
+  "homepage": "https://github.com/AdamLeBlanc/eslint-config-ducky#readme",
+  "peerDependencies": {
+    "eslint": "^5.1.0"
+  }
+}
