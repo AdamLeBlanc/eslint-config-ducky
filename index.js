@@ -37,7 +37,7 @@ module.exports = {
     // Styleistic Issues
     'brace-style': ['error', '1tbs', { allowSingleLine: true }],
     camelcase: 'error',
-    'comma-dangle': 'error', // Makes diffs much more readable
+    'comma-dangle': ['error', 'always-multiline'], // Makes diffs much more readable
     'comma-spacing': ['error', { before: false, after: true }],
     'comma-style': ['error', 'last'], // We're all adults here. Lets be reasonable
     'eol-last': 'error',
